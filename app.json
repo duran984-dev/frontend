@@ -13,10 +13,12 @@
     },
     "android": {
       "adaptiveIcon": {
+      
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#000"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.orgasolutions.utilityapp"
     },
     "web": {
       "bundler": "metro",
