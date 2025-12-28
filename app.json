@@ -13,9 +13,8 @@
     },
     "android": {
       "adaptiveIcon": {
-      
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor":  "#000000"
+        "backgroundColor": "#000000"
       },
       "edgeToEdgeEnabled": true,
       "package": "com.orgasolutions.utilityapp"
@@ -35,7 +34,9 @@
           "resizeMode": "contain",
           "backgroundColor": "#000000"
         }
-      ]
+      ],
+      "expo-font",
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true
